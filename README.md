@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello
 My name is Furkan.
 
 Im 16 years old.
