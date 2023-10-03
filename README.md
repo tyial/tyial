@@ -1,5 +1,5 @@
 ### Hello!
-I'm Furkan, and I'm 17 years old. I'm a passionate developer working with JavaScript, CSS, and HTML languages. I specialize in developing Discord bots and websites.
+I'm Furkan, and I'm 16 years old. I'm a passionate developer working with JavaScript, CSS, and HTML languages. I specialize in developing Discord bots and websites.
 
 My Areas of Expertise:
 
