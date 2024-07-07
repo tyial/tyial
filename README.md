@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋!<br>My name is Tyial!<br>I'm a FullStack Developer from Turkey.</h2>
+<h2 align="center">Hi 👋!<br>My name is Tyial!<br>I'm a Full Stack Developer from Turkey.</h2>
 
 ###
 
